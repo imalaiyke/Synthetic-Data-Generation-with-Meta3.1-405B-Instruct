@@ -4,5 +4,7 @@ Synthetic data generation offers an innovative solution to the challenge of insu
 
 Key Highlights:
 Purpose: Used to train, test, or validate models in scenarios where real data is unavailable, incomplete, or sensitive (e.g., for privacy-related concerns).
+
 Benefits: Scalable, cost-efficient, and inherently privacy-compliant.
+
 Applications: Extensively applied in AI/ML model training, healthcare, robotics, and autonomous systems development.
